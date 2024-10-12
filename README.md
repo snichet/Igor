@@ -1,2 +1,2 @@
 # Igor
-Hasan group igore scripts for ARPES analysis.
+Hasan group Igor scripts for ARPES analysis.
