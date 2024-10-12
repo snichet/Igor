@@ -1,0 +1,3 @@
+Function SaveAsKlistButton(ctrlname):ButtonControl
+
+Ligne 436 - 449 et 455, remplacer \r par \n (ça remplace carriage return, le signe de fin de ligne de Windows; en Linefeed le signe de fin de ligne d'UNIX).
